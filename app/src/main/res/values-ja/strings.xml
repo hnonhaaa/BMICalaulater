@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMICalaulater</string>
+    <string name="calculate_label">kiki</string>
+    <string name="height_label">eitai</string>
+    <string name="weight_label">kimuji</string>
+</resources>

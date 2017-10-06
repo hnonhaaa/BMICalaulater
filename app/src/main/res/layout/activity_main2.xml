@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="64dp"
+    tools:context="com.example.hnonhaaa.bmicalaulater.Main2Activity">
+
+    <TextView
+        android:id="@+id/textvieww"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World"
+        android:textSize="24dp"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="42dp" />
+</LinearLayout>
